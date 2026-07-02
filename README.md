@@ -32,5 +32,5 @@ Process models for a major Russian non-state pension fund: payout applications a
 
 ## Контакты
 - **Telegram:** [@Nekto_sofa](https://t.me/Nekto_sofa)
-- **LinkedIn:** [ссылка](https://www.linkedin.com/in/sofia-gelfand-114b00387/)
+- **LinkedIn:** [Sofia Gelfand](https://www.linkedin.com/in/sofia-gelfand-114b00387/)
 - **GitHub:** [SofGelfand](https://github.com/SoGelfand)
